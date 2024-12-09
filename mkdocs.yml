@@ -1,0 +1,12 @@
+site_name: Don
+edit_uri: null
+docs_dir: content
+site_dir: docs
+
+theme:
+  name: readthedocs
+  highlightjs: false
+  locale: pt_BR
+
+extra_css:
+  - style.css
