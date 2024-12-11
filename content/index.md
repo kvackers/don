@@ -1,6 +1,6 @@
 # Introdução
 
-Dawn é um RPG de mesa inspirado por animes e mangás shonen, principalmente no tipo de franquia em que os protagonistas resolvem as coisas na base da porrada, sangue quente e auto confiança.
+Esse é um RPG de mesa inspirado por animes e mangás shonen, principalmente no tipo de franquia em que os protagonistas resolvem as coisas na base da porrada, sangue quente e auto confiança.
 
 O combate, por sua vez, é inspirado por RPGs de mesa como _Lancer_, RPGs táticos como _Disgaea_ e _Waven_, e MMOs como _Grand Chase_.
 
@@ -14,13 +14,11 @@ O sistema assume algumas coisas sobre o mundo e a campanha do jogo, para fazer a
 
 - **Magia**: O mundo tem um sistema de magia, e todos os jogadores são capazes de usar essa magia por padrão. A magia em si não precisa ser algo como feitiços. Poder ser ki, dobrar elementos, tecnologia avançada, técnicas ninja, etc. Basicamente algo que que os heróis tem que pessoas "normais" não tem.
 
-- **União**: É importante que o mestre crie padrão para cada jogador seguir, de modo que as escolhas do jogadores complementem ou subvertam hipóteses feitas pelo padrão, sem criar sistemas paralelos para cada jogador ou contradizer partes estabelecidas do mundo.
-
-  Ex.: Em uma campanha de _Naruto_, personagens de jogador medianos são _ninjas_ trabalhando para _vilas escondidas_, em um mundo de baixa tecnologia.
+- **União**: É importante que o mestre crie padrão para cada jogador seguir, de modo que as escolhas do jogadores complementem ou subvertam hipóteses feitas pelo padrão, sem criar sistemas paralelos para cada jogador ou contradizer partes estabelecidas do mundo.<br><br>Ex.: Em uma campanha de _Naruto_, personagens de jogador medianos são _ninjas_ trabalhando para _vilas ocultas_, em um mundo de baixa tecnologia.
 
 ### Modos de jogo
 
-Ao contrário de alguns outros RPGs de mesa, Dawn faz uma distinção forte entre **jogo não estruturado** e **combate estruturado**. De maneira geral:
+Ao contrário de alguns outros RPGs de mesa, esse sistema faz uma distinção forte entre **jogo não estruturado** e **combate estruturado**. De maneira geral:
 
 - **Jogo não estruturado** acontece quando a maioria dos jogadores não está lutando. Nesse modo, as regras são menos rígidas, permitindo que cada jogador use suas **Habilidades** e **Perícias** para resolver problemas.
 

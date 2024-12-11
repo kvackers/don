@@ -38,7 +38,7 @@ Todo personagem tem um atributo **primário** que começa em 4 e um atributo **s
 
 ## Níveis
 
-Como a maioria dos RPGs, personagens em Dawn crescem através de uma _Série_. Isso é feito ao aumentar seu _Nível_, que começa em 1 por padrão.
+Como a maioria dos RPGs, personagens nesse RPG crescem através de uma _Série_. Isso é feito ao aumentar seu _Nível_, que começa em 1 por padrão.
 
 ### Experiência
 
