@@ -94,22 +94,58 @@ Você recentemente teve uma oportunidade de resolver um problema prático ou ava
 
 ## Criação Sumarizada
 
+Quando criar um personagem para jogo não estruturado, vai precisar definir as seguintes coisas:
+
+- Uma **Habilidade** e **Perícias**
+- Uma **Perspectiva**
+- E **Atributos**
+
 ### Checklist de Jogo Não Estruturado
 
 #### 1. Responda as perguntas de personagem
 
+As páginas anteriores listam um número de perguntas que você pode responder para definir melhor o conceito do personagem e dar sugestões, mas todas essas questões são opcionais.
+
 #### 2. Gaste seus Ranks de Personagem
+
+**Todo PC começa com 8 Ranks de Personagem**. Pelo menos 4 devem ser gastos em **Perícias**, coisas mundanas que seu personagem tem maestria. Os demais podem ser gastos na sua **Habilidade**, coisas sobrenaturais que ele consegue fazer.
+
+Seus _Ranks de Personagem_ iniciais não podem ser guardados para depois.
 
 #### 3. Escolha sua Perspectiva
 
+**Agora escolha uma Perspectiva, assim como dois Benefícios dessa Perspectiva.** Uma _Perspectiva_ ilustra o ponto de vista de um personagem e como eles interagem com outros. Cada uma delas tem um par que representa seu oposto. Benefícios são bônuses destrávaveis que um personagem consegue por escolher uma Perspectiva.
+
 #### 4. Assinale seus atributos
+
+Quando criar um PC, precisa **assinalar cada um dos seus atributos (Corpo, Talento, Espírito e Mente) como Primário, Secundário ou Terciário.** Tendo então:
+
+- Um _Atributo Primário_ que começa com 4
+- Um _Atributo Secundário_ que começa com 3
+- Dois _Atributos Terciários_ que começam com 2
 
 ### Checklist de Combate
 
 #### 1. Responda as perguntas de personagem
 
+As páginas anteriores listam um número de perguntas que você pode responder para definir melhor o conceito do personagem e dar sugestões, mas todas essas questões são opcionais.
+
 #### 2. Escolha suas Técnicas
+
+**Ganhe 5 Níveis de Técnias de até 3 Arquétipos diferentes.** _Técnicas_ são as características de combate principais para PCs, e são divididas em 3 Níveis para contribuir à build do seu personagem. Essas _Técnicas_ também vão formar de quais _Arquétipos_ você pode escolher quando for pegar mais _Técnicas_ no futuro.
 
 #### 3. Assinale seus atributos
 
+Caso não tenha feito a parte de jogo estruturado do seu personagem, você precisa **assinalar cada um dos seus atributos (Corpo, Talento, Espírito e Mente) como Primário, Secundário ou Terciário.** Tendo então:
+
+- Um _Atributo Primário_ que começa com 4
+- Um _Atributo Secundário_ que começa com 3
+- Dois _Atributos Terciários_ que começam com 2
+
 #### 4. Calcule seus Atributos Derivados
+
+Com os _Atributos_ principais você pode calcular os derivados agora: os atributos passivos usados para combate.
+
+- Sua **Saúde** inicial é **2 ⨯ (Corpo + Nível)**
+- Sua **Velocidade** inical é **2 + (Talento / 2)**
+- Seu **Foco** inicial é **1 + (Espírito / 2)**
